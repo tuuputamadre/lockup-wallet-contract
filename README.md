@@ -1,1 +1,2 @@
+0:436f59ed9889a1e714b35f3f7c8cd52ecb40b32861c3850ca0f14eab6bd9294d
 # lockup-wallet-contract
